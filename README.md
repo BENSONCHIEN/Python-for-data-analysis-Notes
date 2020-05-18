@@ -1,6 +1,7 @@
 # 学习笔记 Python for Data Analysis, 2nd Edition
 
-从[BrambleXu]处转载
+从[BrambleXu]处转载，
+
 这本书的英文版github仓库：[pydata-book](https://github.com/wesm/pydata-book)
 作者[Wes McKinney](https://github.com/wesm)是pandas的创作者，所以书中关于pandas的讲解也是最实用的部分。
 
